@@ -9,8 +9,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "@wormhole-foundation/wormhole-connect": "^<latest_version>",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@wormhole-foundation/wormhole-connect": "^0.3.13"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
@@ -38,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-    "node": "16.x" 
   }
 }
