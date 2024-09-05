@@ -40,6 +40,6 @@
     ]
   },
   "engines": {
-    "node": "16.x" // or the version you are using locally
+    "node": "16.x" 
   }
 }
